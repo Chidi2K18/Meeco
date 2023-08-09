@@ -6,4 +6,4 @@ In a group of 4, we created an application to promote sustainable choices among 
 This project:
 At Meeco we developed an application for all your sustainable shopping needs. In the app we rate different brands based on their environmental impact in terms of how they produce their products. All this is done in an effort to help consumers drive sustainable decisions.
 
-
+Please see the Screenshots folder for images of the application at work.
