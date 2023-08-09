@@ -7,3 +7,4 @@ This project:
 At Meeco we developed an application for all your sustainable shopping needs. In the app we rate different brands based on their environmental impact in terms of how they produce their products. All this is done in an effort to help consumers drive sustainable decisions.
 
 
+![Screenshot_20210517-150536](https://github.com/Chidi2K18/Meeco/assets/37617151/b71dfa82-3440-4bf2-9c91-24dcd039c5be)
