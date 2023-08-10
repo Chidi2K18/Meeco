@@ -25,9 +25,17 @@ https://play.google.com/store/apps/details?id=com.kieranharte.meeco
 
 Please note that the application currently pulls data from the bath area and as such only functions in said area.
 
-To run the application locally:
- 1. Install Node.js
-   1. (https://nodejs.org/en/)
-2. Install Expo
-   1.(https://docs.expo.io/get-started/installation/)
-   2. npm install --global expo-cli
+To run this application locally:
+
+1. Install Node.js
+   - https://nodejs.org/en/
+2. Install GitHub Desktop
+   - https://desktop.github.com/
+3. Watch a bit of this video explaining what Expo/React Native is
+   - https://www.youtube.com/watch?v=0-S5a0eXPoc&t=180s
+4. Install Expo
+   - https://docs.expo.io/get-started/installation/
+   - `npm install --global expo-cli`
+5. Clone this repository with GitHub Desktop
+6. Run `npm install` within the reposity (in the 'meeco' folder)
+7. Run `expo start`
