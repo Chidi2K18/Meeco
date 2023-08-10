@@ -34,6 +34,10 @@ To run the application locally:
               2.npm install --global expo-cli
           3. Run npm install within the reposity (in the 'meeco' folder)
           4.Run expo start
- 1. Item Zed
-   1. Nested Numeric # indented 3 spaces
-2. Item One
+ 1. Install Node.js
+   1. (https://nodejs.org/en/)
+2.  Install Expo
+   1. (https://docs.expo.io/get-started/installation/)
+   2. npm install --global expo-cli
+3.  Run npm install within the reposity (in the 'meeco' folder)
+4.  Run expo start
