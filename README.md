@@ -34,3 +34,7 @@ To run the application locally:
               2.npm install --global expo-cli
           3. Run npm install within the reposity (in the 'meeco' folder)
           4.Run expo start
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
