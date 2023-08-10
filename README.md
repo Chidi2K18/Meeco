@@ -27,10 +27,10 @@ Please note that the application currently pulls data from the bath area and as 
 
 To run the application locally:
 
-1: Install Node.js
-https://nodejs.org/en/
-2: Install Expo
-https://docs.expo.io/get-started/installation/
-npm install --global expo-cli
-3: Run npm install within the reposity (in the 'meeco' folder)
-4: Run expo start
+ Markup : 1. Install Node.js
+              1. [A nested numbered list](https://nodejs.org/en/)
+          2. Install Expo
+              1. https://docs.expo.io/get-started/installation/
+              2.npm install --global expo-cli
+          3. Run npm install within the reposity (in the 'meeco' folder)
+          4.Run expo start
